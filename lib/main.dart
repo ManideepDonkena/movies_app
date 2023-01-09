@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:movies_app/pages/auth_page.dart';
 import 'firebase_options.dart';
-import 'login_signup/src/welcomePage.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() async {
